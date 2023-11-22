@@ -60,7 +60,7 @@ export function Footer() {
 					</a>
 				</div>
 				<div>
-					<span className='footer-title'>Legal (idk)</span>
+					<span className='footer-title'>Legal</span>
 					<a className='link link-hover' href='tos'>
 						Terms of use
 					</a>
